@@ -8,7 +8,7 @@
 -Pogodonst programa je sto se stanje moze proizvoljno imenovati, dok se za ime funkcije moze odrediti samo jedan simbol.<br>
 -Program moze da prijavi svakakve greske unosnika i da mu da tacan podatak na kojoj liniji ju je i napravio i zbog cega je nastala ta greska, sto je i razlog zasto je ovaj program jedan od kvalitetnijih...<br>
 -Moguce je pokrenuti .exe i bez .dll-ova u folderu.<br>
-
+<br><br>
 <p align="center">
-  <img width="300" height="360" src="https://user-images.githubusercontent.com/59072921/71326287-166e3780-24f9-11ea-9429-75ee32304701.png">
+  <img src="https://user-images.githubusercontent.com/59072921/71326287-166e3780-24f9-11ea-9429-75ee32304701.png">
 </p>
